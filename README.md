@@ -16,9 +16,13 @@
 
 ### 2. 인증 방식
 1) 문제를 푸신 뒤 좌측 상단의 코딩테스트 연습으로 이동해서
-2) 이름과 푸신 문제이름(빨간 상자 부분)이 보이도록 사진을 찍으신 뒤
-    -푸신 문제를 찾을 때는 좌측 하단(파란 상자 부분)에서 필터를 선택하시면 쉽게 찾으실 수 있습니다.
-3) 이를 '심성현' 학우분께 보내시면 됩니다.
+<center><img src="https://user-images.githubusercontent.com/52230120/103165192-de11df80-4857-11eb-9500-7781eb8ed773.png" width="600" height="200"></center>
+2) 이름과 푸신 문제이름(빨간 상자 부분)이 보이도록 사진을 찍으신 뒤\
+
+   -푸신 문제를 찾을 때는 좌측 하단(파란 상자 부분)에서 필터를 선택하시면 쉽게 찾으실 수 있습니다.
+<center><img src="https://user-images.githubusercontent.com/52230120/103165193-e0743980-4857-11eb-9cec-286b7fef50c8.png" width="600" height="300"></center>
+3) 이를 '심성현' 학우분께 보내시면 인증이 완료됩니다.
+<center><img src="https://user-images.githubusercontent.com/52230120/103165194-e2d69380-4857-11eb-9ef9-6c3234f00e42.png" width="250" height="300"></center>
 
 ### 3. 추가 공지
 - 스터디 진행 및 문제에 대한 질문은 상시 받고 있습니다.
