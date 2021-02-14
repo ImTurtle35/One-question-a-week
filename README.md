@@ -24,7 +24,7 @@
 <center><img src="https://user-images.githubusercontent.com/52230120/103165193-e0743980-4857-11eb-9cec-286b7fef50c8.png" width="600" height="300"></center>
 3) 이를 매1과제 채널에 보내시면 인증이 완료됩니다.</dr>
 매과제 채널 링크: https://pf.kakao.com/_aCxkJK
-<div><img src="https://user-images.githubusercontent.com/58160874/107881117-21b6ca80-6f26-11eb-82b3-f8d566682bdd.jpg" width="100" height="150">
+<div><img src="https://user-images.githubusercontent.com/58160874/107881117-21b6ca80-6f26-11eb-82b3-f8d566682bdd.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/58160874/107881118-254a5180-6f26-11eb-984f-f7760eec4d3e.jpg" width="250" height="300"></div>
 
 ### 3. 추가 공지
