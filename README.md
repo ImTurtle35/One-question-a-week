@@ -5,7 +5,8 @@
  2. 각 level 디렉토리에 level별 문제가 올라갑니다.
  3. level1 : 심성현\
     level2 : 김정진\
-    level3 : 김민규
+    level3 : 김민규\
+    과제 제출: 김률아
     
 ## 공지
 ### 1. 스터디 진행방식
@@ -21,8 +22,10 @@
 
    -푸신 문제를 찾을 때는 좌측 하단(파란 상자 부분)에서 필터를 선택하시면 쉽게 찾으실 수 있습니다.
 <center><img src="https://user-images.githubusercontent.com/52230120/103165193-e0743980-4857-11eb-9cec-286b7fef50c8.png" width="600" height="300"></center>
-3) 이를 '김률아' 학우분께 보내시면 인증이 완료됩니다.
-<center><img src="https://user-images.githubusercontent.com/52230120/103165194-e2d69380-4857-11eb-9ef9-6c3234f00e42.png" width="250" height="300"></center>
+3) 이를 매1과제 채널에 보내시면 인증이 완료됩니다.
+매과제 채널 링크: https://pf.kakao.com/_aCxkJK
+<center><img src="https://user-images.githubusercontent.com/58160874/107881117-21b6ca80-6f26-11eb-82b3-f8d566682bdd.jpg" width="250" height="300"></center>
+<center><img src="https://user-images.githubusercontent.com/58160874/107881118-254a5180-6f26-11eb-984f-f7760eec4d3e.jpg" width="250" height="300"></center>
 
 ### 3. 추가 공지
 - 스터디 진행 및 문제에 대한 질문은 상시 받고 있습니다.
