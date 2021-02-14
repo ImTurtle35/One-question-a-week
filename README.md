@@ -21,7 +21,7 @@
 
    -푸신 문제를 찾을 때는 좌측 하단(파란 상자 부분)에서 필터를 선택하시면 쉽게 찾으실 수 있습니다.
 <center><img src="https://user-images.githubusercontent.com/52230120/103165193-e0743980-4857-11eb-9cec-286b7fef50c8.png" width="600" height="300"></center>
-3) 이를 '심성현' 학우분께 보내시면 인증이 완료됩니다.
+3) 이를 '김률아' 학우분께 보내시면 인증이 완료됩니다.
 <center><img src="https://user-images.githubusercontent.com/52230120/103165194-e2d69380-4857-11eb-9ef9-6c3234f00e42.png" width="250" height="300"></center>
 
 ### 3. 추가 공지
