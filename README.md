@@ -18,11 +18,11 @@
 ### 2. 인증 방식
 1) 문제를 푸신 뒤 좌측 상단의 코딩테스트 연습으로 이동해서
 <center><img src="https://user-images.githubusercontent.com/52230120/103165192-de11df80-4857-11eb-9500-7781eb8ed773.png" width="600" height="200"></center>
-2) 이름과 푸신 문제이름(빨간 상자 부분)이 보이도록 사진을 찍으신 뒤\
+2) 이름과 푸신 문제이름(빨간 상자 부분)이 보이도록 사진을 찍으신 뒤<br/>
 
    -푸신 문제를 찾을 때는 좌측 하단(파란 상자 부분)에서 필터를 선택하시면 쉽게 찾으실 수 있습니다.
 <center><img src="https://user-images.githubusercontent.com/52230120/103165193-e0743980-4857-11eb-9cec-286b7fef50c8.png" width="600" height="300"></center>
-3) 이를 매1과제 채널에 보내시면 인증이 완료됩니다.</br>
+3) 이를 매1과제 채널에 보내시면 인증이 완료됩니다.<br/>
 매과제 채널 링크: <a href="https://pf.kakao.com/_aCxkJK">매1과제</a>
 <div><img src="https://user-images.githubusercontent.com/58160874/107881117-21b6ca80-6f26-11eb-82b3-f8d566682bdd.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/58160874/107881118-254a5180-6f26-11eb-984f-f7760eec4d3e.jpg" width="250" height="300"></div>
