@@ -1,7 +1,6 @@
 # 매주 1 과제 풀이
 
 ## 소개
- ![card (1)](https://user-images.githubusercontent.com/52230120/110241635-23a80280-7f95-11eb-9e5a-93333d8474f3.jpg)
  1. 여기에는 매주 그 주의 과제에 대한 풀이가 올라갑니다.
  2. 각 level 디렉토리에 level별 문제가 올라갑니다.
  3. level1 : 심성현\
