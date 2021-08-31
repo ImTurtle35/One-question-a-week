@@ -9,11 +9,11 @@ bool solution(string s)
     bool answer = true;
     
     stack<char> stk;
-    for(int i=s.length()-1;i>=0;i--){
-        if(s[i]==')'){
+    for(int i=0;i<s.length();i++){
+        if(s[i]=='('){
             stk.push(s[i]);
         }
-        else if(s[i]='('){
+        else if(s[i]=')'){
             if(stk.empty()){
                 answer=false;
                 break;
@@ -24,6 +24,5 @@ bool solution(string s)
     if(!stk.empty()){
         answer=false;
     }
-    cout<<stk.size();
     return answer;
 }
