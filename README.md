@@ -28,7 +28,10 @@
 매과제 채널 링크: <a href="https://pf.kakao.com/_aCxkJK">매1과제</a>
 <div><img src="https://user-images.githubusercontent.com/58160874/107881117-21b6ca80-6f26-11eb-82b3-f8d566682bdd.jpg" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/58160874/107881118-254a5180-6f26-11eb-984f-f7760eec4d3e.jpg" width="250" height="300"></div>
-![예시사진](https://user-images.githubusercontent.com/26535065/132202041-c7dc3ace-70f2-4640-8c84-4e03e462e45f.png)
+
+
+![example](https://user-images.githubusercontent.com/26535065/132202138-a1742182-1beb-40d1-bd08-e04750fc2142.png)
+
 
 
 ### 3. 추가 공지
