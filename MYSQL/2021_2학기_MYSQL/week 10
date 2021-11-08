@@ -1,0 +1,10 @@
+SELECT *
+FROM PLACES PL1 
+WHERE EXISTS (
+                SELECT 1
+                FROM PLACES PL2
+                WHERE PL1.HOST_ID = PL2.HOST_ID            
+                GROUP BY HOST_ID
+                HAVING COUNT(*) > 1
+             )
+ORDER BY ID;
